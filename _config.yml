@@ -7,7 +7,7 @@ url: "https://jouinirim.github.io"
 
 author:
   name: "Rim Jouini"
-  avatar: "/images/profile.jpg"  # ← ajoute une image dans /images/
+  avatar: "/images/profile.png"  # ← ajoute une image dans /images/
   bio: "PhD in Computer Science • Data science researcher • CRISTAL Lab – ENSI"
   location: "Tunis, Tunisia"
   email: "rim.jouini@example.com"
